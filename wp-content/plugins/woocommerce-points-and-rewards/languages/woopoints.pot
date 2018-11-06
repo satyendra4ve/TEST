@@ -1,0 +1,851 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - Points and Rewards\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-10 06:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-woo-pr-public.php:520
+#, php-format
+msgid " %s credited for refunded Payment %d"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:488 includes/class-woo-pr-public.php:579
+#, php-format
+msgid " %s debited for refunded Payment %d"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:156 includes/class-woo-pr-public.php:363
+#: includes/class-woo-pr-public.php:675
+msgid " Discount"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:473
+#: includes/admin/class-woo-pr-admin.php:295
+msgid " Point(s)"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:700
+msgid " redeemed towards purchase"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:808
+msgid " seconds ago"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:539
+#, php-format
+msgid "%1$d %2$s credited back to customer."
+msgstr ""
+
+#: includes/class-woo-pr-public.php:506 includes/class-woo-pr-public.php:728
+#, php-format
+msgid "%1$d %2$s debited discount towards to customer."
+msgstr ""
+
+#: includes/class-woo-pr-public.php:289
+#, php-format
+msgid "%1$d %2$s earned for purchase."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:861
+#, php-format
+msgid "%d order(s) updated."
+msgstr ""
+
+#: includes/woo-pr-post-type.php:34
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:521
+#, php-format
+msgid "%s credited for refunded Payment %d"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:489 includes/class-woo-pr-public.php:580
+#, php-format
+msgid "%s debited for refunded Payment %d"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:883
+#, php-format
+msgid "%s earned by review a product"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:875
+#, php-format
+msgid "%s earned for account signup"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:863 includes/class-woo-pr-public.php:271
+#: includes/class-woo-pr-public.php:272
+#, php-format
+msgid "%s earned for purchase"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:867
+#, php-format
+msgid "%s earned for sell"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:325
+#, php-format
+msgid "%s earned for selling the downloads."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:597
+#, php-format
+msgid "%s for Reset points"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:432
+#, php-format
+msgid "%s for Signup"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:598
+#, php-format
+msgid "%s Points Reset"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:871
+#, php-format
+msgid "%s redeemed towards purchase"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:879
+#, php-format
+msgid "%s reset"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:59
+msgid "(optional)"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:822
+msgid "1 day ago"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:816
+msgid "1 hour ago"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:828
+msgid "1 week ago"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:52
+msgid "A positive or negative value."
+msgstr ""
+
+#: includes/class-woo-pr-model.php:810
+msgid "about a minute ago"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:220
+msgid "Account Signup"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:242
+msgid ""
+"Add an optional message to the single product page below the price. "
+"Customize the message using {points} and {points_label}. Limited HTML is "
+"allowed. Leave blank to disable."
+msgstr ""
+
+#: includes/woo-pr-post-type.php:30
+msgid "Add New"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:31
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:427
+msgid "Adjust"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:50
+msgid "Amount:"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:206
+msgid "Apply Discount"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:316
+msgid "Apply Points"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:314
+msgid "Apply Points to Previous Orders:"
+msgstr ""
+
+#: includes/class-woo-pr-scripts.php:93
+msgid ""
+"Are you sure you want to apply points to all previous orders that have not "
+"already had points generated? This cannot be reversed! Note that this can "
+"take some time in shops with a large number of orders, if an error occurs, "
+"simply Apply Points again to continue the process."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:153
+msgid "Buy Points Conversion Rate:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:362
+msgid ""
+"Check this box if you want to assign points to customers when they add a "
+"review on any product."
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:20
+msgid "Close"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:226
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:254
+#, php-format
+msgid "Complete your order and earn %s for a discount on a future purchase"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:218
+msgid "Credit for Refund Order"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:34
+msgid "Current Balance"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:668
+msgid "Current points balance "
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:263
+msgid "Customer"
+msgstr ""
+
+#: includes/class-woo-pr-points-log.php:185
+msgid "DATE"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:266
+msgid "Date"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:825
+msgid "days ago"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:217
+msgid "Debit for Refund Order"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:219
+msgid "Debit Sell for Refund Order"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:334
+msgid "Delete Options"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:269
+msgid ""
+"Displayed on the cart and checkout page for guest users to indicate to "
+"create an account for earn the points. Customize the message using {points}, "
+"{points_label} and {signup_points}. Limited HTML is allowed. Leave blank to "
+"disable."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:278
+msgid ""
+"Displayed on the cart and checkout page for guest users to indicate to "
+"create an account to get points into their account. Customize the message "
+"using {points} and {points_label}. Limited HTML is allowed. Leave blank to "
+"disable."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:260
+msgid ""
+"Displayed on the cart and checkout page when points are available for "
+"redemption. Customize the message using {points}, {points_value}, and "
+"{points_label}. Limited HTML is allowed."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:251
+msgid ""
+"Displayed on the cart and checkout page when points are earned. Customize "
+"the message using {points} and {points_label}. Limited HTML is allowed."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:287
+msgid ""
+"Displayed points history message for guest users to indicate to login into "
+"an account to view points of their account. Customize the message using "
+"{points_label}. Limited HTML is allowed. Leave blank to disable."
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:157
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:215
+msgid "Downloads Sell"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:250
+msgid "Earn Points Cart / Checkout Page Message:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:125
+msgid "Earn Points Conversion Rate:"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:887
+#, php-format
+msgid "Earned %s debited towards purchase refund"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:890
+msgid "Earned:"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:19
+msgid "Edit Users Points Balance"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:208
+msgid "Enable Decimal in Points:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:342
+msgid "Enable points removal for refunded orders"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:361
+msgid "Enable Review Points"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:209
+msgid "Enable the decimal points when points are awarded to customer."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:40
+#: includes/admin/class-woo-pr-admin.php:88
+#, php-format
+msgid ""
+"Enter a fixed maximum discount amount  which restricts  the amount of points "
+"that can be redeemed for a discount. For example, if you want to restrict "
+"the discount on this category to a maximum of %s5, enter 5. This setting "
+"overrides the global default, but can be overridden by a product. Use 0 to "
+"disable point discounts for this category, and blank to use the global "
+"setting. If a product belongs to multiple categories which define different "
+"point discounts, the lowest point count will be used when allowing points "
+"discount for placing order."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:272
+#, php-format
+msgid ""
+"Enter a fixed maximum discount amount which restricts the amount of points "
+"that can be redeemed for a discount. For example, if you want to restrict "
+"the discount on this product to a maximum of %s5, enter 5. This setting "
+"overrides the global and category settings. Use 0 to disable point discounts "
+"for this product, and blank to use the global/category defaults."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:307
+msgid ""
+"Enter the amount of points earned when a customer signs up for a new account."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:370
+msgid ""
+"Enter the number of points earned when a customer add a review on any "
+"product."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:299
+msgid ""
+"Enter the number of points earned when a customer add a review on this "
+"product."
+msgstr ""
+
+#: includes/class-woo-pr-points-log.php:184
+msgid "EVENT"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:265
+msgid "Event"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:247
+msgid "Filter"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:326
+#, php-format
+msgid "Get %s for selling the downloads."
+msgstr ""
+
+#: includes/class-woo-pr-public.php:433
+#, php-format
+msgid "Get %s for signing up new account"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:279
+msgid "Guest User Cart / Checkout Page Buy Message:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:270
+msgid "Guest User Cart / Checkout Page Message:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:288
+msgid "Guest User Points History Message:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:425
+msgid "History"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:819
+msgid "hours ago"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpweb.co.in"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpweb.co.in/"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:28
+msgid "ID"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:337
+msgid ""
+"If you don't want to use the points and rewards plugin on your site anymore, "
+"you can check the delete options box. This makes sure, that all the settings "
+"and tables are being deleted from the database when you deactivate the "
+"plugin."
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:57
+msgid "Log Entry:"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:221
+msgid "Manual"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:175
+msgid "Maximum Cart Discount:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:184
+msgid "Maximum Per-Product Discount:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:49
+#: includes/admin/class-woo-pr-admin.php:106
+msgid "Maximum Points Discount"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:136
+msgid "Maximum Points discount"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:263
+msgid "Maximum Points Discount:"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:812
+msgid "minutes ago"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:329
+msgid "Misc Settings"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:709
+msgid "My Balance:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:890
+#: includes/admin/class-woo-pr-admin.php:893
+msgid "N/A"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:33
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-woo-pr-pagination-public.php:26
+msgid "Next"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:37
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:38
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#. message to show when no records in database table
+#: includes/class-woo-pr-points-log.php:213
+#: includes/admin/forms/class-woo-pr-users-points-list.php:295
+msgid "No points log found."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:217
+msgid "Number of Decimals:"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:214
+msgid "Order Placed"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:216
+msgid "Order Redeem"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:219
+msgid "Point"
+msgstr ""
+
+#: includes/class-woo-pr-points-log.php:178
+msgid "POINTS"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:220 includes/class-woo-pr-public.php:155
+#: includes/class-woo-pr-public.php:362 includes/class-woo-pr-public.php:674
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:508
+#: includes/admin/class-woo-pr-admin.php:391
+#: includes/admin/class-woo-pr-admin.php:888
+#: includes/admin/forms/class-woo-pr-users-points-list.php:264
+msgid "Points"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:31
+msgid "Points and Rewards"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:44
+#: includes/admin/class-woo-pr-admin.php:99
+#: includes/admin/class-woo-pr-admin.php:135
+msgid "Points Earned"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:306
+msgid "Points earned for account signup:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:301
+msgid "Points Earned For Actions"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:369
+msgid "Points earned for Review"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:831 includes/class-woo-pr-public.php:832
+#: includes/class-woo-pr-public.php:897 includes/class-woo-pr-public.php:898
+msgid "Points earned for review on product."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:278
+msgid "Points earned for Review:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:251
+msgid "Points Earned:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:199
+msgid "Points Label:"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:29 includes/woo-pr-post-type.php:31
+#: includes/woo-pr-post-type.php:32 includes/woo-pr-post-type.php:33
+#: includes/woo-pr-post-type.php:35 includes/admin/class-woo-pr-admin.php:630
+#: includes/admin/class-woo-pr-admin.php:630
+#: includes/admin/forms/class-woo-pr-users-points-list.php:341
+msgid "Points Log"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:28 includes/woo-pr-post-type.php:34
+#: includes/woo-pr-post-type.php:36 includes/woo-pr-post-type.php:37
+#: includes/woo-pr-post-type.php:38 includes/woo-pr-post-type.php:40
+msgid "Points Logs"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:761
+msgid "Points product"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:65
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:114
+msgid "Points Settings"
+msgstr ""
+
+#: includes/class-woo-pr-pagination-public.php:27
+msgid "Previous"
+msgstr ""
+
+#: includes/class-woo-pr-scripts.php:92
+msgid "Processing..."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:236
+msgid "Product / Cart / Checkout Messages"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:215
+msgid "Product Points and Rewards Configuration"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:223
+msgid "Product Review"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:225
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:245
+#, php-format
+msgid "Purchase this product now and earn %s!"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:259
+msgid "Redeem Points Cart / Checkout Page Message:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:139
+msgid "Redeem Points Conversion Rate:"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:895
+#, php-format
+msgid "Redeemed %s credited back towards purchase refund"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:893
+msgid "Redeemed:"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:224
+msgid "Remove"
+msgstr ""
+
+#: includes/class-woo-pr-public.php:225
+#, php-format
+msgid "Remove %s Discount"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:560
+#: includes/admin/class-woo-pr-admin.php:561
+#: includes/admin/forms/class-woo-pr-users-points-list.php:222
+msgid "Reset Points"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:356
+msgid "Review Settings"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:350
+msgid "Search"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:36
+msgid "Search %a"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:891
+#, php-format
+msgid "Seller Earned %s debited towards purchase refund"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:167
+msgid "Selling Points Conversion Rate:"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:176
+msgid ""
+"Set the maximum discount allowed for the cart when redeeming points. Leave "
+"blank to disable."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:185
+msgid ""
+"Set the maximum per-product discount allowed for the cart when redeeming "
+"points. Leave blank to disable."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:126
+msgid "Set the number of points awarded based on the product price."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:154
+msgid "Set the value for buy points."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:168
+msgid "Set the value for selling points."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:140
+msgid "Set the value of points redeemed for a discount."
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:155
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:229
+msgid "Show all customer"
+msgstr ""
+
+#: includes/admin/forms/class-woo-pr-users-points-list.php:239
+msgid "Show All Event Types"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:241
+msgid "Single Product Page Message:"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:230
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:290
+#, php-format
+msgid "Sorry, You have not earned any %s yet."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:343
+msgid ""
+"Specify whether you want to refund earned and redeemed points when order "
+"gets refunded.   "
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:156
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:200
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:201
+msgid ""
+"The label used to refer the points on the frontend, singular and plural."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:259
+msgid ""
+"This can be a fixed number of points earned for purchasing this product. "
+"This setting modifies the global Points Conversion Rate and overrides any "
+"category value. Use 0 to assign no points for this product, and empty to use "
+"the global/category settings."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin.php:39
+#: includes/admin/class-woo-pr-admin.php:87
+msgid ""
+"This can be a fixed number of points earned for the purchase of any product "
+"that belongs to this category. This setting modifies the global Points "
+"Conversion Rate, but can be overridden by a product. Use 0 to assign no earn "
+"points for products belonging to this category, and empty to use the global "
+"setting. If a product belongs to multiple categories which define different "
+"point levels, the highest available point count will be used when awarding "
+"points for placing order."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:218
+msgid "This sets the number of decimal points."
+msgstr ""
+
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:315
+msgid ""
+"This will apply points to all previous orders (processing and completed) and "
+"cannot be reversed."
+msgstr ""
+
+#: includes/class-woo-pr-scripts.php:91
+#: includes/admin/forms/woo-pr-user-balance-popup.php:64
+msgid "Update Balance"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:227
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:263
+#, php-format
+msgid "Use %s for a %s discount on this order!"
+msgstr ""
+
+#: includes/admin/forms/woo-pr-user-balance-popup.php:31
+msgid "User"
+msgstr ""
+
+#: includes/woo-pr-post-type.php:35
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/class-woo-pr-model.php:831
+msgid "weeks ago"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With Points and Rewards Extension, you can reward customers for purchases "
+"and other actions with points which can be redeemed for discounts."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce - Points and Rewards"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:83
+msgid ""
+"Woocommerce needs to be activated to be able to use the Points and Rewards."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPWeb"
+msgstr ""
+
+#: includes/class-woo-pr-points-log.php:180
+#, php-format
+msgid "You have %s %s"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:228
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:272
+#, php-format
+msgid "You need to register an account in order to earn %s"
+msgstr ""
+
+#: woocommerce-points-and-rewards.php:229
+#: includes/admin/class-woo-pr-admin-settings-tabs.php:281
+#, php-format
+msgid "You need to register an account in order to fund %s into your account."
+msgstr ""
+
+#: includes/class-woo-pr-model.php:968
+msgid "You won't generate any points for buying your own product."
+msgstr ""

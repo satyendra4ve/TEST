@@ -1,0 +1,1882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Refund & Exchange With RMA-2.1.3\n"
+"POT-Creation-Date: 2018-05-22 13:24+0530\n"
+"PO-Revision-Date: 2018-05-22 13:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter <webmaster@makewebbetter.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-refund-and-exchange.php:272
+msgid "OrderId or Email is Invalid"
+msgstr ""
+
+#: woocommerce-refund-and-exchange.php:293
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-refund-and-exchange.php:431
+msgid "You have "
+msgstr ""
+
+#: woocommerce-refund-and-exchange.php:431
+msgid ""
+" days left to verify license of WooCommerce Refund & Exchange With RMA. For "
+"License verification please "
+msgstr ""
+
+#: woocommerce-refund-and-exchange.php:431
+#: template/ced-exchange-request-form.php:62
+#: template/ced-cancel-request-form.php:58
+#: template/ced-return-request-form.php:58
+msgid "Click Here"
+msgstr ""
+
+#: woocommerce-refund-and-exchange.php:450
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"WooCommerce Refund and Exchange."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:82
+#: includes/woocommerce-rnx-class.php:110
+msgid "Product Refund Policy"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:115
+msgid "Refund Request Days"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:118
+msgid "Price Deduction"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:211
+#: includes/woocommerce-rnx-class.php:298
+#: includes/woocommerce-rnx-class.php:908
+msgid "My Wallet"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:211
+#: includes/woocommerce-rnx-class.php:298
+msgid "Regenerate Coupon Code"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:238
+#: includes/woocommerce-rnx-class.php:262 admin/class-admin-setting.php:720
+msgid "Cancel Product"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:250 admin/class-admin-setting.php:398
+#: admin/class-admin-setting.php:713
+msgid "Cancel Order"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:298 admin/class-order-meta.php:940
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:298 admin/class-order-meta.php:941
+msgid "Wallet Amount"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:754
+msgid "Disable Refund"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:759
+msgid "Disable Exchange"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:895
+msgid ""
+"Click on product(s) to exchange with selected product(s) or its variation(s)."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:901
+#: includes/woocommerce-rnx-class.php:905 front/class-order-return.php:999
+#: template/ced-return-request-form.php:595
+msgid "Total Refund Amount"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:916 front/class-order-exchange.php:613
+#: front/class-order-exchange.php:628 front/class-order-exchange.php:642
+#: front/class-order-exchange.php:654 front/class-order-exchange.php:665
+#: front/class-order-exchange.php:987 admin/ced-rnx-notification.php:191
+msgid "Exchange"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:918
+msgid "Please select product you want to refund."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:919
+msgid "Please enter refund subject."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:920
+msgid "Please enter refund reason."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:921
+msgid "Please enter correct quantity."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:922
+msgid "Please select product you want to exchange."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:923
+msgid "Please enter exchange subject."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:924
+msgid "Please enter exchange reason."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:925
+msgid "Choose exchange products before submit request."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:926
+msgid "Left Amount After Exchange."
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:927
+msgid "Extra Amount Need to Pay"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1037
+msgid "Refund Requested"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1038 admin/ced-rnx-notification.php:682
+msgid "Refund Approved"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1039
+msgid "Refund Cancelled"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1040
+msgid "Exchange Requested"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1041 admin/ced-rnx-notification.php:938
+msgid "Exchange Approved"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1042
+msgid "Exchange Cancelled"
+msgstr ""
+
+#: includes/woocommerce-rnx-class.php:1043
+msgid "Partially Cancelled"
+msgstr ""
+
+#: front/class-order-exchange.php:75
+msgid "Pay"
+msgstr ""
+
+#: front/class-order-exchange.php:236
+msgid "Reason of Exchange"
+msgstr ""
+
+#: front/class-order-exchange.php:241 admin/class-order-meta.php:2672
+msgid "Exchanged From"
+msgstr ""
+
+#: front/class-order-exchange.php:245 front/class-order-exchange.php:322
+#: front/class-order-exchange.php:1178 front/class-order-exchange.php:1234
+#: front/class-order-return.php:475 front/class-order-return.php:912
+#: template/ced-exchange-request-form.php:353
+#: template/ced-exchange-request-form.php:657
+#: template/ced-cancel-request-form.php:196
+#: template/ced-return-request-form.php:315 admin/class-order-meta.php:525
+#: admin/class-order-meta.php:1643 admin/class-order-meta.php:2676
+#: admin/class-order-meta.php:2731
+msgid "Product"
+msgstr ""
+
+#: front/class-order-exchange.php:246 front/class-order-exchange.php:323
+#: front/class-order-return.php:476 template/ced-exchange-request-form.php:354
+#: template/ced-exchange-request-form.php:658
+#: template/ced-cancel-request-form.php:197
+#: template/ced-return-request-form.php:316 admin/class-order-meta.php:526
+#: admin/class-order-meta.php:1644 admin/class-order-meta.php:2677
+#: admin/class-order-meta.php:2732
+msgid "Quantity"
+msgstr ""
+
+#: front/class-order-exchange.php:247 front/class-order-exchange.php:324
+#: front/class-order-return.php:477 template/ced-exchange-request-form.php:581
+#: template/ced-exchange-request-form.php:659
+#: template/ced-cancel-request-form.php:264
+#: template/ced-return-request-form.php:559 admin/class-order-meta.php:527
+#: admin/class-order-meta.php:1645 admin/class-order-meta.php:2678
+#: admin/class-order-meta.php:2733
+msgid "Price"
+msgstr ""
+
+#: front/class-order-exchange.php:313 front/class-order-exchange.php:384
+#: front/class-order-exchange.php:1179 front/class-order-exchange.php:1225
+#: front/class-order-exchange.php:1235 front/class-order-return.php:913
+#: template/ced-exchange-request-form.php:355
+#: template/ced-exchange-request-form.php:660
+#: template/ced-return-request-form.php:317
+#: admin/ced-rnx-return-product-meta.php:49
+#: admin/ced-rnx-exchange-product-meta.php:92
+#: admin/ced-rnx-exchange-product-meta.php:155
+#: admin/ced-rnx-exchange-product-meta.php:170
+#: admin/ced-rnx-exchange-product-meta.php:295 admin/class-order-meta.php:2722
+#: admin/class-order-meta.php:3333
+msgid "Total"
+msgstr ""
+
+#: front/class-order-exchange.php:318 admin/class-order-meta.php:2727
+msgid "Exchanged To"
+msgstr ""
+
+#: front/class-order-exchange.php:393
+msgid "Extra Amount"
+msgstr ""
+
+#: front/class-order-exchange.php:396 front/class-order-return.php:556
+#: admin/class-order-meta.php:819 admin/class-order-meta.php:1757
+#: admin/class-order-meta.php:2856
+msgid "Customer details"
+msgstr ""
+
+#: front/class-order-exchange.php:399 front/class-order-return.php:559
+#: admin/class-order-meta.php:822 admin/class-order-meta.php:1761
+#: admin/class-order-meta.php:2859
+msgid "Email"
+msgstr ""
+
+#: front/class-order-exchange.php:402 front/class-order-return.php:562
+#: admin/class-order-meta.php:825 admin/class-order-meta.php:1766
+#: admin/class-order-meta.php:2862
+msgid "Tel"
+msgstr ""
+
+#: front/class-order-exchange.php:408 front/class-order-return.php:568
+#: admin/class-order-meta.php:831 admin/class-order-meta.php:1773
+#: admin/class-order-meta.php:2868
+msgid "Shipping Address"
+msgstr ""
+
+#: front/class-order-exchange.php:412 front/class-order-return.php:572
+#: admin/class-order-meta.php:835 admin/class-order-meta.php:1777
+#: admin/class-order-meta.php:2872
+msgid "Billing Address"
+msgstr ""
+
+#: front/class-order-exchange.php:568
+msgid "User Request to Exchange Product"
+msgstr ""
+
+#: front/class-order-exchange.php:571 front/class-order-return.php:728
+msgid ""
+"Message send successfully.You have received a notification mail regarding "
+"this, Please check your mail. Soon You redirect to My Account Page. Thanks"
+msgstr ""
+
+#: front/class-order-exchange.php:936
+msgid "View Order"
+msgstr ""
+
+#: front/class-order-exchange.php:1164
+#: admin/ced-rnx-exchange-product-meta.php:80
+msgid "Following product exchange request is made on"
+msgstr ""
+
+#: front/class-order-exchange.php:1174
+msgid "Exchange Requested Product"
+msgstr ""
+
+#: front/class-order-exchange.php:1230
+#: admin/ced-rnx-exchange-product-meta.php:84
+msgid "Exchanged Product"
+msgstr ""
+
+#: front/class-order-exchange.php:1315 front/class-order-return.php:981
+msgid "Extra Cost"
+msgstr ""
+
+#: front/class-order-exchange.php:1332
+#: template/ced-exchange-request-form.php:615
+#: template/ced-exchange-request-form.php:813
+#: admin/ced-rnx-return-product-meta.php:126
+msgid "Total Amount"
+msgstr ""
+
+#: front/class-order-exchange.php:1341
+msgid "Pay Amount"
+msgstr ""
+
+#: front/class-order-exchange.php:1346
+msgid "Refundable Amount"
+msgstr ""
+
+#: front/class-order-exchange.php:1359
+#: admin/ced-rnx-exchange-product-meta.php:430
+msgid "Above product exchange request is approved on"
+msgstr ""
+
+#: front/class-order-exchange.php:1367
+msgid "Above product exchange request is cancelled on"
+msgstr ""
+
+#: front/class-order-exchange.php:1420 front/class-order-exchange.php:1453
+#: front/class-order-exchange.php:1498 front/class-order-exchange.php:1531
+msgid "Update Exchange Request"
+msgstr ""
+
+#: front/class-order-exchange.php:1426 front/class-order-exchange.php:1459
+#: front/class-order-exchange.php:1504 front/class-order-exchange.php:1537
+msgid "Exchange Product"
+msgstr ""
+
+#: front/class-order-return.php:222
+#, php-format
+msgid ""
+"Your Wallet doesn't have Sufficient amount to place order. For using Wallet "
+"amount use Coupon Code : %s %s %s"
+msgstr ""
+
+#: front/class-order-return.php:271
+msgid ""
+"Your Wallet doesn't have Sufficient amount to place order. Please Select any "
+"other payment method"
+msgstr ""
+
+#: front/class-order-return.php:467
+msgid "Reason of Refund"
+msgstr ""
+
+#: front/class-order-return.php:549 admin/class-order-meta.php:1750
+msgid "Refund Total"
+msgstr ""
+
+#: front/class-order-return.php:898
+msgid "Refund Requested Product"
+msgstr ""
+
+#: front/class-order-return.php:908
+msgid "Following product Refund request made on"
+msgstr ""
+
+#: front/class-order-return.php:964 admin/ced-rnx-return-product-meta.php:218
+#: admin/ced-rnx-exchange-product-meta.php:422
+msgid "Refund Amount"
+msgstr ""
+
+#: front/class-order-return.php:1046 front/class-order-return.php:1067
+msgid "Update Request"
+msgstr ""
+
+#: front/class-order-return.php:1082
+msgid "Above product Refund request is approved on"
+msgstr ""
+
+#: front/class-order-return.php:1092
+msgid "Above product Refund request is cancelled on"
+msgstr ""
+
+#: front/class-order-return.php:1138 front/class-order-return.php:1156
+#: front/class-order-return.php:1185 front/class-order-return.php:1203
+#: front/class-order-return.php:1254 front/class-order-return.php:1271
+#: front/class-order-return.php:1299 front/class-order-return.php:1316
+#: admin/ced-rnx-notification.php:627
+msgid "Refund Request"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:62
+#: template/ced-cancel-request-form.php:58
+#: template/ced-return-request-form.php:58
+msgid "Please choose an Order."
+msgstr ""
+
+#: template/ced-exchange-request-form.php:145
+#: template/ced-exchange-request-form.php:152
+#: template/ced-exchange-request-form.php:301
+msgid "Exchange request is disabled."
+msgstr ""
+
+#: template/ced-exchange-request-form.php:256
+#: template/ced-exchange-request-form.php:269
+#: template/ced-return-request-form.php:218
+#: template/ced-return-request-form.php:231
+msgid "Days exceed."
+msgstr ""
+
+#: template/ced-exchange-request-form.php:290
+msgid "For Exchange request Order amount must be greater of equal to "
+msgstr ""
+
+#: template/ced-exchange-request-form.php:334
+msgid "Product Exchange Request Form"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:340
+msgid "Select Product to Exchange"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:352
+#: template/ced-cancel-request-form.php:195
+#: template/ced-return-request-form.php:314
+msgid "Check All"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:587
+#: template/ced-exchange-request-form.php:604
+#: template/ced-exchange-request-form.php:620
+#: template/ced-exchange-request-form.php:794
+#: template/ced-exchange-request-form.php:802
+#: template/ced-exchange-request-form.php:818
+#: template/ced-return-request-form.php:564
+#: template/ced-return-request-form.php:579
+#: template/ced-return-request-form.php:601
+msgid "(incl. tax)"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:634
+msgid "It means product can't be exchanged."
+msgstr ""
+
+#: template/ced-exchange-request-form.php:639
+msgid "CHOOSE PRODUCTS"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:661
+#: admin/ced-rnx-return-product-meta.php:181
+#: admin/ced-rnx-exchange-product-meta.php:341
+#: admin/ced-rnx-notification.php:448
+msgid "Remove"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:833
+msgid "<i>Extra Amount Need to Pay</i>"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:849
+msgid "Subject of Exchange Request"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:869
+#: template/ced-return-request-form.php:645
+msgid "Other"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:877
+#: template/ced-return-request-form.php:653
+msgid "Write your reason subject"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:890
+msgid "Reason of Exchange Request"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:897
+msgid "Reason for the Exchange Request"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:907
+#: template/ced-exchange-request-form.php:914
+#: template/ced-return-request-form.php:685
+#: template/ced-return-request-form.php:692
+msgid "No Reason Enter"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:920
+#: template/ced-return-request-form.php:739
+msgid "Submit Request"
+msgstr ""
+
+#: template/ced-exchange-request-form.php:936
+msgid "Exchange Request can't be send. "
+msgstr ""
+
+#: template/ced-cancel-request-form.php:127
+#: template/ced-cancel-request-form.php:134
+msgid "Cancel request is disabled."
+msgstr ""
+
+#: template/ced-cancel-request-form.php:175
+msgid "Order's Product Cancel Request Form"
+msgstr ""
+
+#: template/ced-cancel-request-form.php:181
+msgid "Select Product to Cancel"
+msgstr ""
+
+#: template/ced-cancel-request-form.php:284
+msgid ""
+"NOTE :- According to your Product and Product's quantity selection we will "
+"remove product from order and if you will checked check all box then your "
+"complete  order  will be  cancelled."
+msgstr ""
+
+#: template/ced-cancel-request-form.php:295
+msgid "Cancel Product(s)"
+msgstr ""
+
+#: template/ced-cancel-request-form.php:321
+msgid "Order's Product Cancel Request can't be send. "
+msgstr ""
+
+#: template/ced-return-request-form.php:141
+#: template/ced-return-request-form.php:148
+msgid "Refund request is disabled."
+msgstr ""
+
+#: template/ced-return-request-form.php:252
+msgid "For Refund request Order amount must be greater of equal to "
+msgstr ""
+
+#: template/ced-return-request-form.php:263
+msgid "Update Refund request is disabled."
+msgstr ""
+
+#: template/ced-return-request-form.php:297
+msgid "Order Refund Request Form"
+msgstr ""
+
+#: template/ced-return-request-form.php:303
+msgid "Select Product to Refund"
+msgstr ""
+
+#: template/ced-return-request-form.php:618
+msgid "It means product can't be returned."
+msgstr ""
+
+#: template/ced-return-request-form.php:624
+msgid "Subject of Refund Request :"
+msgstr ""
+
+#: template/ced-return-request-form.php:667
+msgid "Reason of Refund Request"
+msgstr ""
+
+#: template/ced-return-request-form.php:675
+msgid "Reason for the Refund Request"
+msgstr ""
+
+#: template/ced-return-request-form.php:703
+msgid "Select Amount Refund Method :"
+msgstr ""
+
+#: template/ced-return-request-form.php:709
+msgid "Refund In Customer Wallet"
+msgstr ""
+
+#: template/ced-return-request-form.php:712
+msgid "Refund Through Manual Method"
+msgstr ""
+
+#: template/ced-return-request-form.php:726
+msgid "Attach Files"
+msgstr ""
+
+#: template/ced-return-request-form.php:730
+msgid "ced_rnx_refund_upload_files"
+msgstr ""
+
+#: template/ced-return-request-form.php:732
+msgid "Add More"
+msgstr ""
+
+#: template/ced-return-request-form.php:733
+msgid "Only .png, .jpeg extension file is approved."
+msgstr ""
+
+#: template/ced-return-request-form.php:759
+msgid "Refund Request can't be send. "
+msgstr ""
+
+#: template/ced-rnx-help-template.php:19
+msgid ""
+"Your request is submitted successfully. Our team will respond as soon as "
+"possible."
+msgstr ""
+
+#: template/ced-rnx-help-template.php:24
+msgid "Your request is not submitted. Please try again."
+msgstr ""
+
+#: template/ced-rnx-help-template.php:33
+msgid "Documentation"
+msgstr ""
+
+#: template/ced-rnx-help-template.php:36
+msgid "FAQ"
+msgstr ""
+
+#: template/ced-rnx-help-template.php:45
+msgid "Suggestion or Query"
+msgstr ""
+
+#: template/ced-rnx-help-template.php:47
+msgid "Enter Suggestion or Query title here"
+msgstr ""
+
+#: template/ced-rnx-help-template.php:53
+msgid "Enter Suggestion or Query detail here"
+msgstr ""
+
+#: template/ced-rnx-help-template.php:59
+msgid "Send Suggestion"
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:12
+msgid ""
+"WooCommerce Refund And Exchange WC-Vendor Addon For \"WC-Vendor\" Plugin"
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:14
+msgid ""
+"Allow Vendor to handle Refund & Exchnage Request. All refund and exchnage "
+"request will listed in Vendor Pannel.Vendors have permission to accept and "
+"reject customer refund and exchange request."
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:15
+#: template/ced-rnx-addon-template.php:25
+msgid "View Demo"
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:16
+#: template/ced-rnx-addon-template.php:26
+msgid "Get It Now"
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:22
+msgid "WooCommerce Refund And Exchange Add-On For \"Dokan\" Plugin"
+msgstr ""
+
+#: template/ced-rnx-addon-template.php:24
+msgid ""
+"Allow Vendor to handle Refund & Exchnage Request. All refund and exchnage "
+"will listed in Vendor Pannel.Vendors have permission to accept and reject "
+"customer refund and exchange request.Admin have authority to provide "
+"permission to vendor."
+msgstr ""
+
+#: template/ced-rnx-license-template.php:13
+msgid "Woocommerce Refund & Exchange With RMA"
+msgstr ""
+
+#: template/ced-rnx-license-template.php:17
+msgid ""
+"This is the License Activation Panel. After purchasing extention from "
+"Codecanyon you will get the purchase code of this plugin. Please verify your "
+"purchase below so that you can use feature of this extention."
+msgstr ""
+
+#: template/ced-rnx-license-template.php:25
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: template/ced-guest-request-form.php:36
+msgid "Refund/Exchange Request Form"
+msgstr ""
+
+#: template/ced-guest-request-form.php:47
+msgid "ERROR"
+msgstr ""
+
+#: template/ced-guest-request-form.php:55
+msgid "Enter Order Id"
+msgstr ""
+
+#: template/ced-guest-request-form.php:60
+msgid "Enter Order Email"
+msgstr ""
+
+#: template/ced-guest-request-form.php:65
+msgid "Submit"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:39
+msgid "Following product refund request made on"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:45
+#: admin/ced-rnx-exchange-product-meta.php:88
+#: admin/ced-rnx-exchange-product-meta.php:166 admin/class-order-meta.php:3329
+msgid "Item"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:46
+#: admin/ced-rnx-exchange-product-meta.php:89
+#: admin/ced-rnx-exchange-product-meta.php:167 admin/class-order-meta.php:3330
+msgid "Name"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:47
+#: admin/ced-rnx-exchange-product-meta.php:90
+#: admin/ced-rnx-exchange-product-meta.php:168 admin/class-order-meta.php:3331
+msgid "Cost"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:48
+#: admin/ced-rnx-exchange-product-meta.php:91
+#: admin/ced-rnx-exchange-product-meta.php:169 admin/class-order-meta.php:3332
+msgid "Qty"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:51
+msgid "Approved By Vendor"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:79
+#: admin/ced-rnx-exchange-product-meta.php:120
+#: admin/ced-rnx-exchange-product-meta.php:277 admin/class-order-meta.php:3358
+msgid "SKU:"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:82
+#: admin/ced-rnx-exchange-product-meta.php:123 admin/class-order-meta.php:3361
+msgid "Variation ID:"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:86
+#: admin/ced-rnx-exchange-product-meta.php:127 admin/class-order-meta.php:3365
+msgid "No longer exists"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:110
+msgid "Yes"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:114
+msgid "No"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:139
+msgid "Fees amount is deducted from Refund amount"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:176
+#: admin/ced-rnx-exchange-product-meta.php:335
+msgid "Fee Name"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:201
+msgid "Add Fee"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:202
+#: admin/ced-rnx-exchange-product-meta.php:353
+msgid "Save"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:220
+#: admin/ced-rnx-exchange-product-meta.php:392
+msgid "Subject"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:221
+#: admin/ced-rnx-exchange-product-meta.php:393
+msgid "Reason"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:229
+#: admin/ced-rnx-return-product-meta.php:243
+msgid "Attachment"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:257
+msgid "Accept Request"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:258
+msgid "Cancel Request"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:285
+#: admin/ced-rnx-return-product-meta.php:288
+msgid "Following product refund request is approved on"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:299
+msgid "When Product Bacck in stock then for stock management click on "
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:307
+msgid "Following product refund request is cancelled on"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:324
+#: admin/ced-rnx-exchange-product-meta.php:470
+msgid "No request from customer"
+msgstr ""
+
+#: admin/ced-rnx-return-product-meta.php:325
+msgid "Initiate Refund Request"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:162
+msgid "Requested Product"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:307
+msgid "Fees amount is added to Paid amount"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:352
+msgid "Add fee"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:371
+msgid "Extra Amount Paid"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:385
+msgid "Left Amount After Exchange"
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:420
+msgid "Refunddable Amount of this order is "
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:433
+msgid "A new order is generated for your exchange request."
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:444
+msgid "When Product Back in stock then for stock management click on "
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:452
+msgid "Above product exchange request is cancelled on "
+msgstr ""
+
+#: admin/ced-rnx-exchange-product-meta.php:471
+msgid "Initiate Exchange Request"
+msgstr ""
+
+#: admin/class-order-meta.php:126
+msgid "Successfully Verified"
+msgstr ""
+
+#: admin/class-order-meta.php:275 admin/class-order-meta.php:335
+msgid "Product Stock is updated Succesfully."
+msgstr ""
+
+#: admin/class-order-meta.php:280 admin/class-order-meta.php:340
+msgid ""
+"Product Stock is not updated as manage stock setting of product is disable."
+msgstr ""
+
+#: admin/class-order-meta.php:366
+msgid "Fail due to an error"
+msgstr ""
+
+#: admin/class-order-meta.php:439
+msgid "Order cancelled by customer."
+msgstr ""
+
+#: admin/class-order-meta.php:443
+msgid " order cancelled by customer"
+msgstr ""
+
+#: admin/class-order-meta.php:445
+msgid ""
+"Order is cancelled by customer and currently order status goes in cancelled."
+msgstr ""
+
+#: admin/class-order-meta.php:486
+msgid "Your order is cancelled"
+msgstr ""
+
+#: admin/class-order-meta.php:514
+msgid "Please select order's product to cancel."
+msgstr ""
+
+#: admin/class-order-meta.php:586
+msgid "Please select correct quantity of order's product."
+msgstr ""
+
+#: admin/class-order-meta.php:606 admin/class-order-meta.php:1466
+#: admin/class-order-meta.php:2967
+msgid "Backordered"
+msgstr ""
+
+#: admin/class-order-meta.php:706
+msgid "User has cancelled some product of order."
+msgstr ""
+
+#: admin/class-order-meta.php:709
+msgid "Product(s) cancelled by customer of order #"
+msgstr ""
+
+#: admin/class-order-meta.php:855
+msgid "Your selected product(s) removed from order."
+msgstr ""
+
+#: admin/class-order-meta.php:1237
+msgid "Refund Requested Products"
+msgstr ""
+
+#: admin/class-order-meta.php:1238
+msgid "Exchange Products Requested"
+msgstr ""
+
+#: admin/class-order-meta.php:1305 admin/class-admin-setting.php:318
+msgid "Default Catalog"
+msgstr ""
+
+#: admin/class-order-meta.php:1306 admin/class-admin-setting.php:283
+#: admin/class-admin-setting.php:325
+msgid "Catalog Name:"
+msgstr ""
+
+#: admin/class-order-meta.php:1307 admin/class-admin-setting.php:287
+#: admin/class-admin-setting.php:329
+msgid "Select Catalog Products:"
+msgstr ""
+
+#: admin/class-order-meta.php:1308 admin/class-admin-setting.php:302
+#: admin/class-admin-setting.php:343
+msgid "Maximum Refund Days:"
+msgstr ""
+
+#: admin/class-order-meta.php:1309 admin/class-admin-setting.php:305
+#: admin/class-admin-setting.php:346
+msgid "Maximum Exchange Days:"
+msgstr ""
+
+#: admin/class-order-meta.php:1310 admin/class-admin-setting.php:306
+#: admin/class-admin-setting.php:347
+msgid "Enter Exchange Days"
+msgstr ""
+
+#: admin/class-order-meta.php:1311 admin/class-admin-setting.php:303
+#: admin/class-admin-setting.php:344
+msgid "Enter Refund Days"
+msgstr ""
+
+#: admin/class-order-meta.php:1312 admin/class-admin-setting.php:284
+#: admin/class-admin-setting.php:326
+msgid "Enter Catalog Name"
+msgstr ""
+
+#: admin/class-order-meta.php:1313
+msgid "If value is 0 then catalog will not work."
+msgstr ""
+
+#: admin/class-order-meta.php:1328
+msgid "Hide Sidebar"
+msgstr ""
+
+#: admin/class-order-meta.php:1329
+msgid "Show Sidebar"
+msgstr ""
+
+#: admin/class-order-meta.php:1330
+msgid "View More Features"
+msgstr ""
+
+#: admin/class-order-meta.php:1632
+msgid "Your Refund Request is Approved"
+msgstr ""
+
+#: admin/class-order-meta.php:2107 admin/class-order-meta.php:2284
+msgid "User Request of Refund Product is approevd"
+msgstr ""
+
+#: admin/class-order-meta.php:2426
+msgid "Amount is added in customer wallet."
+msgstr ""
+
+#: admin/class-order-meta.php:2434
+msgid ""
+"Wallet is not Enable ,Please Enable wallet to add amount in customer wallet."
+msgstr ""
+
+#: admin/class-order-meta.php:2663
+msgid "Your Exchange Request is Accepted."
+msgstr ""
+
+#: admin/class-order-meta.php:2805
+msgid "Sub-Total"
+msgstr ""
+
+#: admin/class-order-meta.php:2823
+msgid "Grand Total"
+msgstr ""
+
+#: admin/class-order-meta.php:3326 admin/class-admin-setting.php:396
+msgid "Exchange Products"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:53 admin/ced-rnx-notification.php:92
+#: admin/ced-rnx-notification.php:128 admin/ced-rnx-notification.php:156
+msgid "Settings saved."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:55 admin/ced-rnx-notification.php:94
+#: admin/ced-rnx-notification.php:130 admin/ced-rnx-notification.php:158
+msgid "Dismiss this notices."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:186
+msgid "Notification Setting"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:189
+msgid "Basic"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:190
+msgid "Refund"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:192
+msgid "Return Ship Label"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:195
+msgid "RNX Add-Ons"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:198
+msgid "License Verification"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:200
+msgid "Help"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:202
+msgid "GO TO SETTING"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:215
+msgid "Mail Setting"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:221
+msgid "From Name"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:238
+msgid "From Email"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:255
+msgid "Mail Header"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:277
+msgid "Mail Footer"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:299
+msgid "Predefined Refund Reason"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:333 admin/ced-rnx-notification.php:373
+msgid "ADD MORE"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:339
+msgid "Predefined Exchange Reason"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:379
+msgid "Refund Policy"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:390
+msgid "Enable Price Based Policy"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:399
+msgid "Enable to add price based Refund policy rules"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:404
+msgid "Show Refund Policy On Product Page"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:413
+msgid ""
+"Enable to add Refund policy tab in product page. Also you can use "
+"<strong>[ced_rnx_refund_policy]</strong> shortcode for show Refund Policy "
+"Table."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:422
+msgid "Number of days to Refund"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:425
+msgid "Precentage Price Reduced"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:428
+msgid "Action"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:442 admin/ced-rnx-notification.php:462
+msgid "Enter % Price to be reduced"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:445 admin/ced-rnx-notification.php:465
+msgid "Add"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:473
+msgid "Price Deduction Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:486
+msgid "Enable Time Based Policy"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:495
+msgid "Enable to add time based Refund policy rules"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:506
+msgid "Allow Refund Request Between"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:520 admin/ced-rnx-notification.php:1053
+#: admin/ced-rnx-notification.php:1140
+msgid "Save changes"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:537 admin/ced-rnx-notification.php:847
+msgid "Short-Codes "
+msgstr ""
+
+#: admin/ced-rnx-notification.php:539
+msgid ""
+"These are order shortcode that you can use in EMAIL MESSESGES. It will be "
+"changed with order's dynamic values."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:540 admin/ced-rnx-notification.php:850
+#, php-format
+msgid ""
+"%s Note :%s Use %s [order] %s for Order Number, %s [siteurl] %s for home "
+"page url and %s [username] %s for user name."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:548 admin/ced-rnx-notification.php:858
+msgid "Merchant Setting"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:555
+msgid "Merchant Refund Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:571
+msgid "Auto Accept Refund Request"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:577
+msgid "Auto Accept Refund Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:588 admin/ced-rnx-notification.php:644
+#: admin/ced-rnx-notification.php:699 admin/ced-rnx-notification.php:734
+#: admin/ced-rnx-notification.php:791 admin/ced-rnx-notification.php:898
+#: admin/ced-rnx-notification.php:955 admin/ced-rnx-notification.php:1012
+msgid "Enable for custom email template"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:597 admin/ced-rnx-notification.php:653
+#: admin/ced-rnx-notification.php:708 admin/ced-rnx-notification.php:743
+#: admin/ced-rnx-notification.php:800 admin/ced-rnx-notification.php:907
+#: admin/ced-rnx-notification.php:964 admin/ced-rnx-notification.php:1021
+msgid ""
+"Enable, if you want to put custom email template in editor & Put your email "
+"template under text tab of editor. "
+msgstr ""
+
+#: admin/ced-rnx-notification.php:602
+msgid "Auto Accept Refund Request Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:633
+msgid "Refund Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:658
+msgid "Recieved Refund Request Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:688
+msgid "Approved Refund Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:713
+msgid "Approved Refund Request Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:748
+msgid "Approved Refund Request Message (Wallet Feature enabled)"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:773
+msgid "Refund Cancel"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:779
+msgid "Cancelled Refund Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:805
+msgid "Cancelled Refund Request Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:830
+msgid ""
+"Save\n"
+"\t\t\t\t\tSettings"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:849
+msgid "These are order shortcode that you can use in EMAIL MESSESGE"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:865
+msgid "Merchant Exchange Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:881
+msgid "Exchange Request"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:887
+msgid "Exchange Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:912 admin/ced-rnx-notification.php:969
+#: admin/ced-rnx-notification.php:1026
+msgid "Recieved Exchange Request Message"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:944
+msgid "Approve Exchange Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:995
+msgid "Exchange Cancel"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1001
+msgid "Cancel Exchange Request Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1067
+msgid "Return Slip Setting"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1072
+msgid "Enable Shiping Label"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1082
+msgid ""
+"Enable this to send a return Slip Label to customer for sending return "
+"Product Back."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1087
+msgid "Return Slip Mail Subject"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1098
+msgid "Return Slip template"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1101 admin/ced-rnx-notification.php:1102
+msgid " Use "
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1101
+msgid ""
+" Shortcode in Place of Tracking Id. Here tracking id represent order Id."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1102
+msgid " Shortcode in place of return label \"from\" column.  "
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1102
+msgid " Shortcode in place of your site url."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1102
+msgid " Shortcode in place of Customer name."
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1125
+msgid "Terms & condition Setting"
+msgstr ""
+
+#: admin/ced-rnx-notification.php:1130
+msgid ""
+"<b>1-</b> You need to create a terms & Condition page and put your all terms "
+"and conditions as content of page. <a href=\""
+msgstr ""
+
+#: admin/class-admin-setting.php:108
+msgid "User Wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:136
+msgid "Add Free amount to Customer Wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:143
+msgid "Provide Coupon Amount (Enter only number and decimal amount)"
+msgstr ""
+
+#: admin/class-admin-setting.php:146
+msgid "Change Coupon Amount"
+msgstr ""
+
+#: admin/class-admin-setting.php:197
+msgid "RAE Configuration"
+msgstr ""
+
+#: admin/class-admin-setting.php:216
+msgid "RAE Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:277 admin/class-admin-setting.php:319
+msgid "-"
+msgstr ""
+
+#: admin/class-admin-setting.php:278 admin/class-admin-setting.php:320
+msgid "+"
+msgstr ""
+
+#: admin/class-admin-setting.php:303 admin/class-admin-setting.php:306
+#: admin/class-admin-setting.php:344 admin/class-admin-setting.php:347
+msgid "[If value is 0 then catalog will not work.]"
+msgstr ""
+
+#: admin/class-admin-setting.php:383
+msgid "Mail Configuration"
+msgstr ""
+
+#: admin/class-admin-setting.php:395
+msgid "Refund Products"
+msgstr ""
+
+#: admin/class-admin-setting.php:397 admin/class-admin-setting.php:559
+msgid "Common Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:399
+msgid "Wallet Settings"
+msgstr ""
+
+#: admin/class-admin-setting.php:400
+msgid "Text Settings"
+msgstr ""
+
+#: admin/class-admin-setting.php:401
+msgid "Catalog Settings"
+msgstr ""
+
+#: admin/class-admin-setting.php:433
+msgid "Exchange Products Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:437 admin/class-admin-setting.php:563
+#: admin/class-admin-setting.php:630 admin/class-admin-setting.php:796
+msgid "Enable"
+msgstr ""
+
+#: admin/class-admin-setting.php:438
+msgid "Enable Exchange Request"
+msgstr ""
+
+#: admin/class-admin-setting.php:444
+msgid "Enable Exchange Request With Same Product or its Variations"
+msgstr ""
+
+#: admin/class-admin-setting.php:445
+msgid ""
+"Enable Exchange Request only for Exchange with same Product or its "
+"Variations."
+msgstr ""
+
+#: admin/class-admin-setting.php:451 admin/class-admin-setting.php:804
+msgid "Sale Items"
+msgstr ""
+
+#: admin/class-admin-setting.php:452
+msgid "Enable Exchange Request for Sale Items"
+msgstr ""
+
+#: admin/class-admin-setting.php:459 admin/class-admin-setting.php:812
+msgid "Include Tax"
+msgstr ""
+
+#: admin/class-admin-setting.php:460
+msgid "Include Tax with Product Exchange Request."
+msgstr ""
+
+#: admin/class-admin-setting.php:467
+msgid "Add Shipping Fee"
+msgstr ""
+
+#: admin/class-admin-setting.php:468
+msgid "Add Shipping fee to Exchange amount."
+msgstr ""
+
+#: admin/class-admin-setting.php:474
+msgid "Enable Exchange Note on Product Page"
+msgstr ""
+
+#: admin/class-admin-setting.php:475 admin/class-admin-setting.php:829
+msgid "Enable to show the note on product page."
+msgstr ""
+
+#: admin/class-admin-setting.php:482
+msgid "Exchange Note on Product Page"
+msgstr ""
+
+#: admin/class-admin-setting.php:483 admin/class-admin-setting.php:854
+msgid "This note is shown on product detail page."
+msgstr ""
+
+#: admin/class-admin-setting.php:490 admin/class-admin-setting.php:862
+msgid "Maximum Number of Days"
+msgstr ""
+
+#: admin/class-admin-setting.php:491
+msgid ""
+"If days exceeds from the day of order delivered then Exchange Request will "
+"not be send. If value is 0 or blank then Exchange button will not visible at "
+"order detail page."
+msgstr ""
+
+#: admin/class-admin-setting.php:497 admin/class-admin-setting.php:870
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: admin/class-admin-setting.php:498
+msgid ""
+"Minimum Order amount must be greater or equal to this amount. Keep blank to "
+"enable exchange for all Order."
+msgstr ""
+
+#: admin/class-admin-setting.php:505 admin/class-admin-setting.php:879
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/class-admin-setting.php:506
+msgid "Select those categories for which products you don't want to exchange."
+msgstr ""
+
+#: admin/class-admin-setting.php:516
+msgid "Show Add To Cart button on time of Exchange"
+msgstr ""
+
+#: admin/class-admin-setting.php:517
+msgid "Enable to show Add To Cart button on time exchange session is enable."
+msgstr ""
+
+#: admin/class-admin-setting.php:523
+msgid "Enable Exchange Reason Description"
+msgstr ""
+
+#: admin/class-admin-setting.php:524
+msgid ""
+"Enable this for user to send the detail description of exchange request."
+msgstr ""
+
+#: admin/class-admin-setting.php:530 admin/class-admin-setting.php:904
+msgid "Enable Manage Stock"
+msgstr ""
+
+#: admin/class-admin-setting.php:531
+msgid "Enable this to increase product stock when exhange request is accepted."
+msgstr ""
+
+#: admin/class-admin-setting.php:537
+msgid "Select the order status in which the order can be exchanged"
+msgstr ""
+
+#: admin/class-admin-setting.php:538
+msgid "Select Order status on which you want exchange request user can submit."
+msgstr ""
+
+#: admin/class-admin-setting.php:564
+#, php-format
+msgid ""
+"Enable Single Refund/Exchange Request per order. %s ( %s If any one Refund/"
+"Exchange request is done with an order then Refund/Exchange request is "
+"disable for that order. %s )"
+msgstr ""
+
+#: admin/class-admin-setting.php:571
+msgid "Enable Refund & Exchange for exchange approved order"
+msgstr ""
+
+#: admin/class-admin-setting.php:572
+msgid ""
+"Enable refund & exchange feature for exchange approved order.When exchange "
+"approved order goes in selected order status then order is available for "
+"refund & exchange feature."
+msgstr ""
+
+#: admin/class-admin-setting.php:578
+msgid "Show Sidebar in Refund & Exchange Request Form"
+msgstr ""
+
+#: admin/class-admin-setting.php:579
+msgid ""
+"Enable this if you want to show sidebar on refund and exchange request form.."
+msgstr ""
+
+#: admin/class-admin-setting.php:585
+msgid "Main Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-admin-setting.php:586
+msgid "Write the main wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-admin-setting.php:591
+msgid "Child Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-admin-setting.php:592
+msgid ""
+"Write the child wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-admin-setting.php:597
+msgid "Refund form Custom CSS"
+msgstr ""
+
+#: admin/class-admin-setting.php:598
+msgid "Write the custom css for Refund form."
+msgstr ""
+
+#: admin/class-admin-setting.php:603
+msgid "Exchange form Custom CSS"
+msgstr ""
+
+#: admin/class-admin-setting.php:604
+msgid "Write the custom css for exchange form."
+msgstr ""
+
+#: admin/class-admin-setting.php:609
+msgid "Shortcode for Wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:610
+msgid ""
+"Copy and  Paste this Shortcode on any page for the customer wallet to be "
+"displayed."
+msgstr ""
+
+#: admin/class-admin-setting.php:626
+msgid "Cancel Order Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:631
+msgid "Enable Cancel Order"
+msgstr ""
+
+#: admin/class-admin-setting.php:637
+msgid "Enable Order's Product Cancel "
+msgstr ""
+
+#: admin/class-admin-setting.php:638
+msgid "Enable Cancel Order's Product"
+msgstr ""
+
+#: admin/class-admin-setting.php:644
+msgid "Select the order status in which the order can be cancelled"
+msgstr ""
+
+#: admin/class-admin-setting.php:645
+msgid ""
+"Select Order status on which you want to cancel the order by the customer."
+msgstr ""
+
+#: admin/class-admin-setting.php:664
+msgid "Modify Text on Frontend"
+msgstr ""
+
+#: admin/class-admin-setting.php:668
+msgid "Guest Refund/Exchange Form Text "
+msgstr ""
+
+#: admin/class-admin-setting.php:672
+msgid "Change heading for guest Refund exchange request page"
+msgstr ""
+
+#: admin/class-admin-setting.php:675
+msgid "Exchange Button Text"
+msgstr ""
+
+#: admin/class-admin-setting.php:679
+msgid "Change exchange button text on frontend"
+msgstr ""
+
+#: admin/class-admin-setting.php:682
+msgid "Refund Button Text"
+msgstr ""
+
+#: admin/class-admin-setting.php:686
+msgid "Change Refund button text on frontend"
+msgstr ""
+
+#: admin/class-admin-setting.php:689
+msgid "Placeholder text for Refund reason field"
+msgstr ""
+
+#: admin/class-admin-setting.php:693
+msgid "Add Placeholder text for Refund reason"
+msgstr ""
+
+#: admin/class-admin-setting.php:696
+msgid "Placeholder text for Exchange reason field"
+msgstr ""
+
+#: admin/class-admin-setting.php:700
+msgid "Add Placeholder text for Exchange reason"
+msgstr ""
+
+#: admin/class-admin-setting.php:703
+msgid "Exchange with same product form text"
+msgstr ""
+
+#: admin/class-admin-setting.php:707
+msgid ""
+"Add text to display on Exchange form to Exchanging with same product(s) and "
+"it's variation(s). "
+msgstr ""
+
+#: admin/class-admin-setting.php:710
+msgid "Order Cancel Button Text"
+msgstr ""
+
+#: admin/class-admin-setting.php:714
+msgid "Change Cancel Order button text on frontend"
+msgstr ""
+
+#: admin/class-admin-setting.php:717
+msgid "Cancel Product Button Text"
+msgstr ""
+
+#: admin/class-admin-setting.php:721
+msgid "Change Cancel Product button text on frontend"
+msgstr ""
+
+#: admin/class-admin-setting.php:745
+msgid "Wallet settings"
+msgstr ""
+
+#: admin/class-admin-setting.php:749
+msgid "Enable Wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:750
+msgid "Enable this for add the refund amount to customer wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:756
+msgid "Enable to Select Refund Method to Customer"
+msgstr ""
+
+#: admin/class-admin-setting.php:757
+msgid ""
+"Enable this to select the refund method to customer.(If wallet is enable "
+"then it will work) "
+msgstr ""
+
+#: admin/class-admin-setting.php:763
+msgid "Cancel Order Amount to Wallet"
+msgstr ""
+
+#: admin/class-admin-setting.php:764
+msgid ""
+"Enable this for add the Order amount with coupon discount to customer wallet "
+"for those order which is paid and having status Processing and Completed and "
+"going to be cancelled due to some reason."
+msgstr ""
+
+#: admin/class-admin-setting.php:771
+msgid "Wallet Coupon Prefix"
+msgstr ""
+
+#: admin/class-admin-setting.php:772
+msgid " Prefix for using wallet amount using coupon"
+msgstr ""
+
+#: admin/class-admin-setting.php:791
+msgid "Refund Products Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:797
+msgid "Enable Refund Request"
+msgstr ""
+
+#: admin/class-admin-setting.php:805
+msgid "Enable Refund Request for Sale Items"
+msgstr ""
+
+#: admin/class-admin-setting.php:813
+msgid "Include Tax with Product Refund Request."
+msgstr ""
+
+#: admin/class-admin-setting.php:820
+msgid "Exclude Shipping Fee"
+msgstr ""
+
+#: admin/class-admin-setting.php:821
+msgid "Exclude Shipping Cost from Refunded amount."
+msgstr ""
+
+#: admin/class-admin-setting.php:828
+msgid "Enable Refund Note on Product Page"
+msgstr ""
+
+#: admin/class-admin-setting.php:836
+msgid "Enable Auto Accept Product Refund Request"
+msgstr ""
+
+#: admin/class-admin-setting.php:837
+msgid "Enable to Auto Accept Product Refund Request."
+msgstr ""
+
+#: admin/class-admin-setting.php:845
+msgid "Minimum Number of Days for Auto Accept"
+msgstr ""
+
+#: admin/class-admin-setting.php:846
+msgid ""
+"If Refund Request submitted within selected number of days then Refund "
+"Request is auto approved. If value is 0 or blank then automatic accept "
+"request function is not work."
+msgstr ""
+
+#: admin/class-admin-setting.php:853
+msgid "Refund Note on Product Page"
+msgstr ""
+
+#: admin/class-admin-setting.php:863
+msgid ""
+"If days exceeds from the day of order delivered then Refund Request will not "
+"be send. If value is 0 or blank then Refund button will not visible at order "
+"detail page."
+msgstr ""
+
+#: admin/class-admin-setting.php:871
+msgid ""
+"Minimum Order amount must be greater or equal to this amount. Keep blank to "
+"enable Refund for all Order."
+msgstr ""
+
+#: admin/class-admin-setting.php:880
+msgid "Select those categories for which products you don't want to Refund."
+msgstr ""
+
+#: admin/class-admin-setting.php:890
+msgid "Enable Attachment on Request Form"
+msgstr ""
+
+#: admin/class-admin-setting.php:891
+msgid ""
+"Enable this for user to send the attachment. User can attach <i>.png, .jpg, ."
+"jpeg</i> type files."
+msgstr ""
+
+#: admin/class-admin-setting.php:897
+msgid "Enable Refund Reason Description"
+msgstr ""
+
+#: admin/class-admin-setting.php:898
+msgid "Enable this for user to send the detail description of Refund request."
+msgstr ""
+
+#: admin/class-admin-setting.php:905
+msgid "Enable this to increase product stock when Refund request is accepted."
+msgstr ""
+
+#: admin/class-admin-setting.php:911
+msgid "Select the orderstatus in which the order can be Refunded"
+msgstr ""
+
+#: admin/class-admin-setting.php:912
+msgid "Select Order status on which you want Refund request user can submit."
+msgstr ""
+
+#: gateway/wallet-gateway.php:53 gateway/wallet-gateway.php:89
+msgid "Wallet Payment"
+msgstr ""
+
+#: gateway/wallet-gateway.php:54
+msgid ""
+"This payment method is used for user who want to make payment from their "
+"Wallet."
+msgstr ""
+
+#: gateway/wallet-gateway.php:79
+msgid "Enable/Disable"
+msgstr ""
+
+#: gateway/wallet-gateway.php:81
+msgid "Enable Wallet Payment"
+msgstr ""
+
+#: gateway/wallet-gateway.php:86
+msgid "Title"
+msgstr ""
+
+#: gateway/wallet-gateway.php:88
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: gateway/wallet-gateway.php:94
+msgid "Description"
+msgstr ""
+
+#: gateway/wallet-gateway.php:96
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: gateway/wallet-gateway.php:97
+msgid "Your amount is deducted from your wallet."
+msgstr ""
+
+#: gateway/wallet-gateway.php:102
+msgid "Instructions"
+msgstr ""
+
+#: gateway/wallet-gateway.php:104
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#: gateway/wallet-gateway.php:127 gateway/wallet-gateway.php:135
+msgid "[Your Amount :"
+msgstr ""
+
+#: gateway/wallet-gateway.php:186
+msgid "Awaiting Wallet payment"
+msgstr ""

@@ -1,0 +1,27 @@
+.phoen_rewpts_order_report_table_div {
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+	font-size: 20px;
+}
+
+#phoen_attr_data_cust_pagination {
+	text-align: center;
+}
+
+#phoen_attr_data_cust_pagination .pagination {
+    display: inline-block;
+    float: none;
+    margin: 10px 10px 0;
+    text-align: center;
+}
+
+#phoen_attr_data_cust_pagination li {
+    display: inline-block;
+	margin-left: 4px;
+}
+
+select.page-range {
+    display: inline-block;
+    margin-top: 7px;
+}

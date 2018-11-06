@@ -1,0 +1,153 @@
+.woo-pr-points-left {
+	float: left;
+}
+.woo-pr-points-right {
+	float: right;
+}
+.woo-pr-points-social-none {
+	display:none;
+}
+
+/***************** CSS for Social Login Page Starts ******************/
+.woo-pr-points-social-submit {
+	margin:15px 0 0 0 !important;
+}
+.woo-pr-points-sortable tbody td{
+	cursor:move !important;
+}
+.woo-pr-points-social-chart-container{
+	text-align: center; 
+	margin: 30px 0 0; 
+	width:650px; 
+	margin:auto;
+}
+/***************** CSS for Social Login Page Ends******************/
+
+/********** CSS for Shortcode Popup Starts ***********/
+.woo-pr-points-popup-content {
+    margin: 0 auto;
+    min-height: 340px;
+    display: none;
+	position: fixed; /*absolute*/
+	border: 1px solid #555555;
+	top: 16%;
+	text-align: left;
+	max-width: 480px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	z-index:9995;
+	overflow: auto;
+	box-shadow: 0 4px 30px #000000;
+	color: #000000;
+	left:0;
+	right:0;
+}
+.woo-pr-points-popup-content .description {
+	margin-left: 0px !important
+}
+.woo-pr-points-popup-overlay {
+	display: none;
+	background-color: #000000;
+    height: 100%;
+    left: 0;
+    opacity: 0.75;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9991;
+}
+.woo-pr-points-header-title {
+    float: left;
+    padding: 6px 10px 0;
+}
+.woo-pr-points-popup-close {
+ 	float: right;
+    padding: 6px 10px 0;
+    text-align: right;
+}
+.woo-pr-points-header {
+    background-color: #222222;
+    color: #CFCFCF;
+    min-height: 30px;
+    position: relative;
+    width: 100%;
+}
+.woo-pr-points-popup table.form-table {
+	margin : 15px !important;
+	width: 95% !important;	
+}
+.woo-pr-points-loader {
+	display:none;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.woo-pr-points-validate-error {
+	border-color: #FF0000 !important;
+}
+#woo_pr_points_user_current_balance {
+	color: #008000
+}
+#woo-pr-points-shortcode-error {
+	color: red;
+}
+#woo-pr-points-insert-container {
+	margin: 15px;
+}
+#woo-pr-points-shortcode-error, 
+#woo-pr-points-insert-container,
+.woo-pr-points-shortcodes-options {
+ 	display: block;
+}
+#woo-pr-points-message-label{
+	width:90% !important;
+}
+.pointslog #customer{width:35% !important;}
+.pointslog #points{width:12% !important;}
+.pointslog #event{width:40% !important;}
+.pointslog #date{width:13% !important;}
+/***************** CSS for Shortcode Popup Ends******************/
+.woo-pr-points-user-profile-balance h2 {
+	padding: 0;
+	margin: 0;
+}
+/***************** Customize Chosen CSS Start *******************/
+.tablenav .actions {
+	overflow: visible;
+}
+.alignleft.actions .chzn-container-single {
+    display: inline-block;
+    vertical-align: middle;
+}
+.chzn-search input {
+	width: 100% !important;
+}
+/***************** Customize Chosen CSS End ********************/
+.woo-pr-points-reset-points {
+	margin-left: 6px;
+}
+.taxonomy-product_cat .fixed .column-points_earned,
+.taxonomy-product_cat .fixed .column-max_points_discount{
+	width: 13%;
+}
+.taxonomy-product_cat .fixed .column-description{
+	width: 21%;
+}
+.taxonomy-product_cat .fixed .column-posts{
+	width: 9%;
+}
+/***************** Customize Product Cat CSS *******************/
+#addtag .woo-points-earned-cat-field,
+#addtag .woo-pr-points-dis-cat-field,
+#edittag .woo-points-earned-cat-field,
+#edittag .woo-pr-points-dis-cat-field{
+    width: 150px;
+}
+/***************** Customize Order Edit CSS *******************/
+#order_data .order_data_column .form-field-wide.wp-pr-user-order-points > span {
+	float: right;
+}
+/***************** Customize CSS End *******************/
+.woocommerce table.form-table fieldset,
+.woocommerce table.form-table fieldset > span,
+.woocommerce table.form-table fieldset input:first-child {
+	vertical-align: middle;
+}

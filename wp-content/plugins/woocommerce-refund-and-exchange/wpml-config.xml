@@ -1,0 +1,16 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ced_rnx_return_note_message" />
+        <key name="ced_rnx_exchange_note_message" />
+        <key name="ced_rnx_return_exchange_page_heading_text" />
+        <key name="ced_rnx_exchange_button_text" />
+        <key name="ced_rnx_return_button_text" />
+        <key name="ced_rnx_return_placeholder_text" />
+        <key name="ced_rnx_exchange_placeholder_text" />
+        <key name="ced_rnx_exchnage_with_same_product_text" />
+        <key name="ced_rnx_order_cancel_text" />
+        <key name="ced_rnx_product_cancel_text" /> 
+        <key name="ced_rnx_return_predefined_reason" />
+        <key name="ced_rnx_exchange_predefined_reason" />
+    </admin-texts>
+</wpml-config>
